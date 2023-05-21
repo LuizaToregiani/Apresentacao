@@ -79,6 +79,7 @@ main figure img {
     border-radius: 200px;
 
     margin-bottom: 6%;
+    cursor: pointer;
     border: 1px #ec2e67 solid;
     transition: 0.2s ease-in-out;
 
