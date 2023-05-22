@@ -24,10 +24,14 @@
         font-size: 0.9em;
     }
 
-    main .techs .cards-container, .main-content .text p {
-        margin-top: 32px;
-        justify-content: center;
-    
+    main .techs , .main-content .text p {
+        margin-bottom: 32px;
+         
+    }
+
+    main .cards-container {
+      margin: 5px;
+        
     }
 }
 
